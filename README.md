@@ -1,6 +1,6 @@
 ## MatheusMacielsccp
 ° 😉Matheus Maciel de Souza   
-° 🤓Aluno sesi/senai-DS  
+° 🤓Aluno Sesi/Senai-DS  
 ° ⚫⚪Eu sou maloqueiro, corinthiano e sofredor   👉🤪👈   
 ° ✋😝🤚 baka!, bakaro bakaro   
 ° 🍞 PÃO!!   
@@ -18,4 +18,4 @@
   <img align="center" alt="Maciel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
 </div>
 
-  ##
+##
